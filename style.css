@@ -1,0 +1,21 @@
+body {
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
+p {
+    text-align: justify;
+}
+
+.jobbra {
+    text-align: right;
+}
+
+#tabla1 {
+    width: 90%;
+    margin: auto;
+}
+
+.igazitkozep {
+    text-align: center;
+}
